@@ -1,0 +1,2 @@
+sounddevice>=0.3.13
+librosa>=0.7.0
